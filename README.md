@@ -2,7 +2,7 @@
 
 Portafolio profesional.
 
-**Live:** *Se actualizará después del deploy*
+**Live:** [ivi-mujica.cofoundy.dev](https://ivi-mujica.cofoundy.dev/)
 
 ## Tech Stack
 
